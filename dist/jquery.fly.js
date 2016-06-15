@@ -1,6 +1,6 @@
-/*! fly - v1.0.0 - 2015-03-23
+/*! fly - v1.0.0 - 2016-06-15
 * https://github.com/amibug/fly
-* Copyright (c) 2015 wuyuedong; Licensed MIT */
+* Copyright (c) 2016 wuyuedong; Licensed MIT */
 (function ($) {
   $.fly = function (element, options) {
     // 默认值
